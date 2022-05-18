@@ -1,0 +1,15 @@
+B:\код\c#\seminar_8_dz\bin\Debug\net6.0\seminar_8_dz.exe
+B:\код\c#\seminar_8_dz\bin\Debug\net6.0\seminar_8_dz.deps.json
+B:\код\c#\seminar_8_dz\bin\Debug\net6.0\seminar_8_dz.runtimeconfig.json
+B:\код\c#\seminar_8_dz\bin\Debug\net6.0\seminar_8_dz.dll
+B:\код\c#\seminar_8_dz\bin\Debug\net6.0\seminar_8_dz.pdb
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.csproj.AssemblyReference.cache
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.GeneratedMSBuildEditorConfig.editorconfig
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.AssemblyInfoInputs.cache
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.AssemblyInfo.cs
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.csproj.CoreCompileInputs.cache
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.dll
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\refint\seminar_8_dz.dll
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.pdb
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\seminar_8_dz.genruntimeconfig.cache
+B:\код\c#\seminar_8_dz\obj\Debug\net6.0\ref\seminar_8_dz.dll
