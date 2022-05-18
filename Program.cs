@@ -49,13 +49,13 @@ for (int rows = 0; rows < matrix.GetLength(0); rows++)
     {
         if (posI == iMin)
         {
-            rows++;
+            posI++;
         }
         for (int columns = 0; columns < matrix.GetLength(1); columns++)
         {
             if (posJ == columns)
             {
-                columns++;
+                posJ++;
             }
             matrix[rows, columns] = array[posI, posJ];
             posJ++;
